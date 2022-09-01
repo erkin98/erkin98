@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Python, Javascript**
 
-- ⚡ Fun fact **I love going to gym**
+- 📫 How to reach me **erkinqara@gmail.com**
+
+- ⚡ Fun fact **I love going to the gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
