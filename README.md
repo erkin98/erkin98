@@ -91,6 +91,7 @@ I'm a passionate **Full Stack Developer** from **Azerbaijan** with expertise in 
 <p align="center">
   <a href="https://github.com/erkin98">
     <img src="https://streak-stats.demolab.com/?user=erkin98&theme=tokyonight&hide_border=true&v=20251230" alt="GitHub Streak"/>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=erkin98)](https://git.io/streak-stats)
   </a>
 </p>
 
