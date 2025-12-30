@@ -79,38 +79,31 @@ I'm a passionate **Full Stack Developer** from **Azerbaijan** with expertise in 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erkin98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkin98&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <a href="https://github.com/erkin98">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=erkin98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+  </a>
+  <a href="https://github.com/erkin98">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erkin98&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkin98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <a href="https://github.com/erkin98">
+    <img src="https://streak-stats.demolab.com/?user=erkin98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<a href="https://github.com/erkin98/youtube-downloader-pro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erkin98&repo=youtube-downloader-pro&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/erkin98/ai-agency-landing-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erkin98&repo=ai-agency-landing-page&theme=tokyonight&hide_border=true" />
-</a>
-</div>
-
-<br/>
-
-<div align="center">
-<a href="https://github.com/erkin98/dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erkin98&repo=dashboard&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/erkin98/kishai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erkin98&repo=kishai&theme=tokyonight&hide_border=true" />
-</a>
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**youtube-downloader-pro**](https://github.com/erkin98/youtube-downloader-pro) | Enterprise-grade YouTube downloader with modern UI | FastAPI, React, Redis, Docker |
+| [**ai-agency-landing-page**](https://github.com/erkin98/ai-agency-landing-page) | Modern AI agency landing page with booking system | Next.js, TypeScript, Tailwind |
+| [**dashboard**](https://github.com/erkin98/dashboard) | Analytics dashboard with real-time data | React, TypeScript, Vercel |
+| [**kishai**](https://github.com/erkin98/kishai) | AI-powered application | Python, API Integration |
 
 ---
 
@@ -140,7 +133,5 @@ I'm always interested in working on innovative projects, especially in:
 <div align="center">
   
 ### 💡 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
