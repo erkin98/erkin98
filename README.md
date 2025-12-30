@@ -1,25 +1,146 @@
-<h1 align="center">Hi 👋, I'm Erkin</h1>
-<h3 align="center">A passionate Python developer from Azerbaijan</h3>
+<div align="center">
+  
+# 👋 Hi, I'm **Erkin Garayev**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erkin98&label=Profile%20views&color=0e75b6&style=flat" alt="erkin98" /> </p>
+### 🚀 Full Stack Developer | Open Source Contributor | Python Specialist
 
-- 🔭 I’m currently working on **Technosec.io**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garayev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erkinqara@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=erkin98&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/erkin98)
 
-- 🌱 I’m currently learning **Python, Javascript**
+</div>
 
-- 📫 How to reach me **erkinqara@gmail.com**
+---
 
-- ⚡ Fun fact **I love going to the gym**
+## 🎯 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/garayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garayev" height="30" width="40" /></a>
-<a href="https://fb.com/qarayeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="qarayeff" height="30" width="40" /></a>
-</p>
+I'm a passionate **Full Stack Developer** from **Azerbaijan** with expertise in building scalable applications and contributing to open-source projects. I specialize in Python backend development, modern frontend frameworks, and cloud infrastructure.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 Currently building innovative solutions at **Technosec.io**
+- 🌟 Open source contributor to [**JupyterLab**](https://github.com/jupyterlab/jupyterlab) - Fixed critical file browser bugs
+- 💡 Always exploring new technologies and best practices
+- 🏋️ Fun fact: When I'm not coding, you'll find me at the gym!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkin98&show_icons=true&locale=en&layout=compact" alt="erkin98" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erkin98&show_icons=true&locale=en" alt="erkin98" /></p>
+## 🏆 Open Source Contributions
+
+<table>
+<tr>
+<td width="50%">
+
+### JupyterLab Core
+**[PR #16026](https://github.com/jupyterlab/jupyterlab/pull/16026)** - Merged ✅
+> Fixed inconsistent header state in file browser by specifying header node
+
+</td>
+<td width="50%">
+
+### Impact
+- Contributed to **JupyterLab 4.2.0** milestone
+- Improved user experience for millions of data scientists
+- Part of the Jupyter ecosystem trusted by Netflix, Bloomberg, NASA
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erkin98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkin98&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkin98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<a href="https://github.com/erkin98/youtube-downloader-pro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erkin98&repo=youtube-downloader-pro&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/erkin98/ai-agency-landing-page">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erkin98&repo=ai-agency-landing-page&theme=tokyonight&hide_border=true" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/erkin98/dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erkin98&repo=dashboard&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/erkin98/kishai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erkin98&repo=kishai&theme=tokyonight&hide_border=true" />
+</a>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+💼 **Open to exciting opportunities and collaborations!**
+
+I'm always interested in working on innovative projects, especially in:
+- 🐍 Python Backend Development
+- ⚛️ Full Stack Applications
+- 📊 Data Science & ML Infrastructure
+- 🔧 Developer Tools & Open Source
+
+</div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garayev)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erkinqara@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
