@@ -88,12 +88,6 @@ I'm a passionate **Full Stack Developer** from **Azerbaijan** with expertise in 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/erkin98">
-    <img src="https://streak-stats.demolab.com/?user=erkin98&theme=tokyonight&hide_border=true&v=20251230" alt="GitHub Streak"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
