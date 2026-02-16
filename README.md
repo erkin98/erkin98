@@ -4,7 +4,7 @@
 
 ### Software Engineer | AI Infrastructure Builder | Multi-Agent Architect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-erkinres-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/erkin98/erkinres)
+[![Portfolio](https://img.shields.io/badge/Portfolio-erkinres-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://erkinres.up.railway.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erkinqarayev)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:erkinqara@proton.me)
 
