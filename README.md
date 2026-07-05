@@ -20,7 +20,7 @@ Senior Software Engineer at **Technosec.io** (4+ years) — building a JupyterLa
 
 ## What I'm building
 
-**Rovanaut** — a notebook-native AI assistant on JupyterLab + Jupyter AI: a LangChain/LangGraph tool-calling agent with human-in-the-loop approval (per-tool allow / deny / ask), a full Model Context Protocol (MCP) client, retrieval-augmented (RAG) file search over an OpenAI vector store, and an AST-based code-safety gate.
+**Datanout** — a notebook-native AI assistant on JupyterLab + Jupyter AI: a LangChain/LangGraph tool-calling agent with human-in-the-loop approval (per-tool allow / deny / ask), a full Model Context Protocol (MCP) client, retrieval-augmented (RAG) file search over an OpenAI vector store, and an AST-based code-safety gate.
 
 **Platform work** — primary author of the JupyterLab frontend extension (custom file browser, a dozen-component React/TypeScript design system, the core plugin entry point), a multi-step data-pipeline wizard, a React Flow pipeline-graph editor, and a cross-origin notebook ↔ analytics integration secured with an HMAC-SHA256 authenticated RPC bridge.
 
