@@ -2,10 +2,10 @@
 
 # Hi, I'm **Erkin Qarayev**
 
-### Software Engineer | AI Infrastructure Builder | Multi-Agent Architect
+### Senior Software Engineer — Python · TypeScript · React
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://erkinres.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erkinqarayev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garayev)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:erkinqara@proton.me)
 
 </div>
@@ -14,111 +14,35 @@
 
 ## About
 
-Software Engineer at **Technosec.io** (4+ years), building production-grade AI systems with multi-agent orchestration, RAG pipelines, and scalable full-stack architectures. Open-source contributor to the JupyterLab ecosystem.
+Senior Software Engineer at **Technosec.io** (4+ years) — building a JupyterLab-based econometric/marketing-analytics platform end to end, from a React/TypeScript frontend extension to a Python/Tornado backend. Upstream contributor to JupyterLab and the Jupyter-AI ecosystem.
 
 ---
 
-## What I Build
+## What I'm building
 
-<table>
-<tr>
-<td width="50%">
+**Rovanaut** — a notebook-native AI assistant on JupyterLab + Jupyter AI: a LangChain/LangGraph tool-calling agent with human-in-the-loop approval (per-tool allow / deny / ask), a full Model Context Protocol (MCP) client, retrieval-augmented (RAG) file search over an OpenAI vector store, and an AST-based code-safety gate.
 
-### Multi-Agent Orchestration Platform
-**~15,000 LoC | 14 Autonomous Agents**
-
-Production platform using LangGraph, LangChain, and FastAPI. Agents with real autonomy — accept, refuse, question, retry, and delegate via state-machine supervisor with intelligent LLM routing.
-
-`LangGraph` `LangChain` `FastAPI` `Python`
-
-</td>
-<td width="50%">
-
-### RAG Pipeline System
-**Semantic Search & Document Intelligence**
-
-Full retrieval-augmented generation pipeline with document chunking, Ollama embeddings, vector storage, and semantic search across CSV, PDF, JSON, and Markdown.
-
-`RAG` `Embeddings` `Vector Search` `Ollama`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Real-Time Agent Dashboard
-**Next.js 16 / React 19 Frontend**
-
-WebSocket streaming, chat history, file upload for RAG, and agent status visualization with Zustand state management and Recharts.
-
-`Next.js` `React` `WebSocket` `Zustand`
-
-</td>
-<td width="50%">
-
-### CI/CD & Test Automation
-**200+ E2E Tests | 80%+ Coverage**
-
-Selenium + Playwright across 3 browsers. Parallel CI/CD execution reducing QA cycle from 3 days to under 4 hours. Percy visual regression for 25+ flows.
-
-`Selenium` `Playwright` `GitLab CI/CD` `Percy`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### JupyterLab Extensions
-**Open-Source | 90%+ Adoption**
-
-Custom TypeScript + React extensions reducing repetitive tasks by ~35% for 15+ data scientists. Contributed to [JupyterLab 4.2.0](https://github.com/jupyterlab/jupyterlab/pull/16026).
-
-`TypeScript` `React` `JupyterLab`
-
-</td>
-<td width="50%">
-
-### AI-Powered Dev Workflows
-**Claude Code | MCP Servers**
-
-Orchestrating specialized agents for code review, security analysis, and automated testing with custom MCP servers, hooks, and prompt engineering.
-
-`Claude API` `MCP` `Prompt Engineering`
-
-</td>
-</tr>
-</table>
+**Platform work** — primary author of the JupyterLab frontend extension (custom file browser, a dozen-component React/TypeScript design system, the core plugin entry point), a multi-step data-pipeline wizard, a React Flow pipeline-graph editor, and a cross-origin notebook ↔ analytics integration secured with an HMAC-SHA256 authenticated RPC bridge.
 
 ---
 
-## Tech Stack
+## Open source
+
+- **JupyterLab core** — file-browser select-all fix, shipped in release 4.2.0 ([#16026](https://github.com/jupyterlab/jupyterlab/pull/16026))
+- **Jupyter-AI agent stack** — agent-terminal hardening against env-var injection (acp-client #25), attachment forwarding (#24), Jupyternaut error handling (#42), and a cross-stack mimetype API field (jupyter-chat #383)
+- **LiteLLM** — streaming decode-error fix in review ([#22085](https://github.com/BerriAI/litellm/pull/22085))
+
+---
+
+## Projects
+
+- **diffuseai** — Python GenAI image CLI with a verified end-to-end encryption layer (Argon2id, per-file HKDF-SHA256, AES-256-GCM) driving a self-hosted SDXL backend over ComfyUI
+- **kishai** — streaming LLM inference service — FastAPI over Ollama, JWT + API-key auth, rate limiting; strict typing
+- **dashboard** — Next.js 15 / React 19 business-intelligence dashboard with a typed integration layer and Jest + Playwright visual-regression tests
+- **js2tl** — TypeScript CLI inferring a Telegram TL-schema from a JSON sample
+
+---
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+<sub>Python · TypeScript · React · JupyterLab · LangGraph · MCP · FastAPI · Security</sub>
 </div>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/erkin98">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=erkin98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170em"/>
-  </a>
-  <a href="https://github.com/erkin98">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erkin98&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
-  </a>
-</p>
