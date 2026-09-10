@@ -24,7 +24,11 @@ Open to remote work worldwide, as a contractor (B2B) or via an Employer of Recor
 
 **Datanout** — a notebook-native AI assistant on JupyterLab + Jupyter AI: a LangChain/LangGraph tool-calling agent with human-in-the-loop approval (per-tool allow / deny / ask), a full Model Context Protocol (MCP) client, cross-session memory, and an AST-based code-safety gate on model-generated code.
 
-**Platform work** — primary author of the JupyterLab frontend extension (custom file browser, a dozen-component React/TypeScript design system, the core plugin entry point), a multi-step data-pipeline wizard, a React Flow pipeline-graph editor, and a cross-origin notebook ↔ analytics integration secured with an HMAC-SHA256 authenticated RPC bridge.
+**Platform work** — primary author of the full-stack JupyterLab extension (custom file browser, a from-scratch React/TypeScript widget library over Ant Design and AG Grid, the core plugin entry point) over a Python/Tornado backend; a data-pipeline wizard with a React Flow editor (now being rebuilt as a standalone FastAPI/Next.js/React app); a SQLAlchemy→SQLModel data-layer migration with a ZeroMQ log transport; a TypeScript-to-Python codegen tool that fails the build on frontend/backend drift; and configuring the team's AI coding assistants (Claude Code, Cursor, Copilot) with custom instructions and hooks.
+
+**PanelBoom** — an internal design-to-code tool: two Python FastMCP servers turning Figma mockups into Panel and Python dashboards, plus a Next.js and Flask web app.
+
+**Internal dev tools** — a JupyterLab diagnostics/issue-reporter extension that files privacy-redacted Jira tickets, and a Python Redmine REST toolkit with a Typer CLI, a Textual TUI and an MCP server (506 tests).
 
 ---
 
@@ -32,7 +36,7 @@ Open to remote work worldwide, as a contractor (B2B) or via an Employer of Recor
 
 - **JupyterLab core** (15k+ stars) — file-browser select-all fix, merged and shipped in release 4.2.0 ([#16026](https://github.com/jupyterlab/jupyterlab/pull/16026))
 - **Jupyter-AI agent stack** — hardened the agent-driven terminal manager against environment-variable injection, with tests ([acp-client #25](https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/pull/25)); built file/notebook attachment forwarding with path-traversal protection ([#24](https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/pull/24)); error handling in the Jupyternaut agent loop ([#42](https://github.com/jupyter-ai-contrib/jupyter-ai-jupyternaut/pull/42)); a cross-stack mimetype API field ([jupyter-chat #383](https://github.com/jupyterlab/jupyter-chat/pull/383)). All merged.
-- **LiteLLM** (55k+ stars) — streaming decode-error fix, in review ([#22085](https://github.com/BerriAI/litellm/pull/22085))
+- **jupyter-chat** — pycrdt minimum bump preventing silent tuple-to-null data loss, merged ([#385](https://github.com/jupyterlab/jupyter-chat/pull/385))
 
 ---
 
