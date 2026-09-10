@@ -14,7 +14,7 @@
 
 ## About
 
-Senior Software Engineer at **Technosec.io** (nearly five years) — building a JupyterLab-based econometric/marketing-analytics platform end to end, from a React/TypeScript frontend extension to a Python/Tornado backend. Upstream contributor to JupyterLab and the Jupyter-AI ecosystem.
+Senior Software Engineer at **Technosec.io** (five years) — building a JupyterLab-based econometric/marketing-analytics platform end to end, from a React/TypeScript frontend extension to a Python/Tornado backend. Upstream contributor to JupyterLab and the Jupyter-AI ecosystem.
 
 Open to remote work worldwide, as a contractor (B2B) or via an Employer of Record.
 
@@ -39,7 +39,7 @@ Open to remote work worldwide, as a contractor (B2B) or via an Employer of Recor
 ## Projects
 
 - **diffuseai** — Python GenAI image CLI with a verified end-to-end encryption layer (Argon2id, per-file HKDF-SHA256, AES-256-GCM) driving a self-hosted SDXL backend over ComfyUI
-- **kishai** — streaming LLM inference service — FastAPI over Ollama, JWT + API-key auth, rate limiting; strict typing
+- **kishai** — LLM evaluation harness — YAML golden-set suites with deterministic + LLM-as-judge scoring; a GPU-free replay mode gates CI on model regressions
 - **dashboard** — Next.js 15 / React 19 business-intelligence dashboard with a typed integration layer and Jest + Playwright visual-regression tests
 - **js2tl** — TypeScript CLI inferring a Telegram TL-schema from a JSON sample
 
