@@ -2,7 +2,7 @@
 
 # Hi, I'm **Erkin Qarayev**
 
-### Senior Software Engineer — Python · TypeScript · React
+### Software Engineer — Python · TypeScript · React
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://erkinres.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garayev)
@@ -14,7 +14,7 @@
 
 ## About
 
-Senior Software Engineer at **Technosec.io** (five years) — building a JupyterLab-based econometric/marketing-analytics platform end to end, from a React/TypeScript frontend extension to a Python/Tornado backend. Upstream contributor to JupyterLab and the Jupyter-AI ecosystem.
+Software Engineer  — building a JupyterLab-based econometric/marketing-analytics platform end to end, from a React/TypeScript frontend extension to a Python/Tornado backend. Upstream contributor to JupyterLab and the Jupyter-AI ecosystem.
 
 Open to remote work worldwide, as a contractor (B2B) or via an Employer of Record.
 
