@@ -28,7 +28,7 @@ Available now. Open to remote work worldwide, as a contractor (B2B) or via an Em
 
 ---
 
-## What I built at work (2021 to 2026)
+## What I built
 
 - **Datanout**: a notebook-native AI assistant on JupyterLab + Jupyter AI. A LangChain/LangGraph tool-calling agent with human-in-the-loop approval (per-tool allow, deny, ask), a full Model Context Protocol (MCP) client, cross-session memory, and an AST-based safety gate on model-written code.
 - **Platform work**: primary author of the JupyterLab extension (custom file browser, a React/TypeScript widget library over Ant Design and AG Grid, the core plugin entry point) over a Python/Tornado backend; a data-pipeline wizard with a React Flow editor, later started again as a standalone FastAPI/Next.js app; a SQLAlchemy to SQLModel data-layer migration; a TypeScript-to-Python codegen tool that fails the build on frontend/backend drift; and instruction files and hooks for the team's AI coding assistants.
